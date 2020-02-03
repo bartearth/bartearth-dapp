@@ -1,10 +1,8 @@
-# starter kit
+# bartearth
 
 [![Build Status](https://travis-ci.org/HQ20/starter-kit.svg?branch=master)](https://travis-ci.org/HQ20/starter-kit)
 
-This template is a monorepo using a **create-react-app** boilerplate with typescript, alongside with an ethereum example.
-
-The projects is currently controled with yarn workspaces, which control tests, coverage and linting.
+Bart this. Bart that.
 
 ## Installation
 
